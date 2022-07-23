@@ -26,8 +26,8 @@ Contato:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoJackson&layout=compact=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="rigth">
   <a href="https://github.com/YagoJackson%22%3E
-  <img align="left" height="160"  width="100" src="https://github-readme-stats.vercel.app/api?username=YagoJackson&show_icons=true&theme=outrun&include_all_commits=true&count_private=true%22/%3E
- <img align="center" height="160" width="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoJackson&layout=compact&langs_count=7&theme=outrun%22/%3E
+  <img align="left" height="130"  width="80" src="https://github-readme-stats.vercel.app/api?username=YagoJackson&show_icons=true&theme=outrun&include_all_commits=true&count_private=true%22/%3E
+ <img align="center" height="130" width="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoJackson&layout=compact&langs_count=7&theme=outrun%22/%3E
 </div>
 <div style="display: inline_block"><br>
 

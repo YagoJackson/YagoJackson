@@ -24,13 +24,7 @@ Contato:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoJackson&layout=compact&langs_count=7&theme=outrun%22/%3E
 </div>
 
-
-
 ##
-
-
-
-
 <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />

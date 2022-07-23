@@ -3,6 +3,8 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
+<img align="right" height="260" width="230" src="https://github.com/YagoJackson/YagoJackson/blob/main/octocat-1658598104661.png" />
+
 
 Contato:
 

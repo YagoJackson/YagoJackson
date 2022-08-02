@@ -2,7 +2,7 @@
 
 Olá!! Meu nome e  Yago Jackson 👋
 
-#
+
 
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
@@ -15,7 +15,6 @@ Contato:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yago.jacksoncs92@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-jackson-carmo-de-souza-3990531a0/)
 
-#
 
 
 

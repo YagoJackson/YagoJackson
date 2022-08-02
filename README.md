@@ -2,7 +2,7 @@
 
 Olá!! Meu nome e  Yago Jackson 👋
 
-##
+#
 
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
@@ -15,7 +15,7 @@ Contato:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yago.jacksoncs92@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-jackson-carmo-de-souza-3990531a0/)
 
-##
+#
 
 
 
@@ -27,7 +27,7 @@ Contato:
 
 <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-##
+#
 
 ![YagoJackson GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoJackson&count_private=true&theme=ocean_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoJackson&layout=compact=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)

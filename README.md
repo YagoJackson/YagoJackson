@@ -12,8 +12,9 @@ Olá!! Meu nome e  Yago Jackson 👋
 
 Contato:
 
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="yagojacksonsouza@gmail.com" target="_blank" rel="extenal" ></a>
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/yago-jackson-souza-9a1a2425a/" target="_blank" rel="extenal" ></a> 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yagojacksonsouza@gmail.com) <a href="yagojacksonsouza@gmail.com" target="_blank" rel="extenal" ></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-jackson-souza-9a1a2425a/) <a href="https://www.linkedin.com/in/yago-jackson-souza-9a1a2425a/" target="_blank" rel="extenal" ></a> 
+
 
 
 
